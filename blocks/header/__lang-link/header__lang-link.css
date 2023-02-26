@@ -1,0 +1,11 @@
+.header__lang-link{
+    width: 30px;
+    height: 28px;
+    text-decoration: none;
+    color: #fff;
+    padding-right: 18px;
+    border: 1px solid red;
+}
+.header__lang-link:last-child{
+    padding: 0;
+}
