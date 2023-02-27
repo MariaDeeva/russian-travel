@@ -2,9 +2,7 @@
     display: flex;
     width: 1184px;
     height: 52px;
-  /*  justify-content: space-between;*/
     padding: 28px 48px 58px 48px;
-       
-  /* grid-template-areas: "header__logo . header__lang-link_ru header__lang-link_en";*/
-
+    justify-content: space-between;  
+    align-items: center;
 }
