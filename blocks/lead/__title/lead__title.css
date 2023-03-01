@@ -1,7 +1,8 @@
 .lead__title {
-    display: flex;
+   /* display: flex;*/
     font-size: 96px;
     line-height: 1.05;
     width: 900px;
     text-align: center;
+    margin: 0;
 }

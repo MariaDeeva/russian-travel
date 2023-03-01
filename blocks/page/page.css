@@ -1,12 +1,14 @@
 .page {
-    font-family: 'Inter', Arial, sans-serif;
+    font-family: 'Inter';
     background: #2A2C2F;
     color: #FFFFFF;
     max-width:1280px;
-    margin: 0 auto;
-    padding: 28px 48px 0 48px;
+  /*  margin: 0 auto;*/
+  /* padding: 0 48px 0 48px;*/
     text-rendering: optimizeLegibility;
     overflow: hidden;
+    width: 100%;
+    
    /* -webkit-font-smoothing: antialised*/
 
 }
