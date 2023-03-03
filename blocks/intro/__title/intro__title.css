@@ -1,0 +1,12 @@
+.intro__title{
+    display: flex;
+    font-size: 54px;
+    line-height: 1.1;
+    font-weight: 900;
+    margin: 0;
+}
+@media all and (max-width: 424px) {
+    .intro__title{
+       font-size: 32px;
+    } 
+}

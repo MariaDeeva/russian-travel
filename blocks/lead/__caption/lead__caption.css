@@ -1,0 +1,16 @@
+.lead__caption {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    line-height: 1.4;
+    text-transform: uppercase;
+    display: flex;
+    margin: 0;
+}
+
+/*@media all and (max-width: 899px) {
+    .lead__caption {
+        padding-left: 24px;
+    }
+}*/

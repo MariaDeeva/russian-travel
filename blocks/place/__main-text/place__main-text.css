@@ -1,0 +1,12 @@
+.place__main-text{
+    grid-area: text;
+    margin: 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.7;
+}
+@media all and (max-width: 1023px) {
+    .place__main-text{
+        font-size: 16px;
+    }
+}

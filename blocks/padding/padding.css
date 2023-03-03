@@ -1,0 +1,9 @@
+.padding {
+    padding: 0 48px 0 48px;
+}
+
+@media all and (max-width: 1023px) {
+    .padding {
+        padding: 0 24px 0 24px;
+    }
+}

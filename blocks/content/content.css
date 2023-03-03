@@ -1,0 +1,8 @@
+.content{
+    margin-top: 64px;
+}
+@media all and (max-width: 1279px) {
+    .content{
+        margin-top: 48px;
+    }
+}

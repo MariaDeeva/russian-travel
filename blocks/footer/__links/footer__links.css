@@ -1,0 +1,9 @@
+.footer__links {
+    display: flex;
+}
+@media all and (max-width: 424px) {
+    .footer__links{
+        flex-flow: column wrap;
+        
+    }
+}

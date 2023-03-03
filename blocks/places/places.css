@@ -1,0 +1,15 @@
+.places {
+    margin-top: 92px;
+}
+
+@media all and (max-width: 1023x) {
+    .places{
+        margin-top: 88px;
+    }
+}
+
+@media all and (max-width: 424x) {
+    .places{
+        margin-top: 64px;
+    }
+}
