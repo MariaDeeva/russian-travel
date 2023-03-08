@@ -13,13 +13,12 @@
     .lead__subtitle{
         margin: 24px 0 48px;
         font-size: 22px;
-        max-width: 464px;*/
+        max-width: 464px;
     } 
 }
     @media all and (max-width: 525px) {
     .lead__subtitle{
         max-width: 376px;
-
     } 
 }
 @media all and (max-width: 424px) {
