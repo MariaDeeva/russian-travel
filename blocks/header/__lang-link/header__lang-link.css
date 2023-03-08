@@ -4,11 +4,19 @@
     line-height: 1.2;
     margin: 0;
    /* padding-top: 20px;*/
+    display: flex;
+    flex-direction: row;
+    padding-right: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.header__lang-link:last-child{
+    padding: 0;
 }
 
-@media screen and (max-height: 424px) {
+@media screen and (max-height: 479px) {
     .header__lang-link {
-        font-size: 22px;
+        font-size: 18px;
         line-height: 1.1;
     }
     

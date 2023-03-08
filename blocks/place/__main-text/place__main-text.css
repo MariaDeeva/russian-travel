@@ -3,7 +3,7 @@
     margin: 0;
     font-weight: 400;
     font-size: 18px;
-    line-height: 1.7;
+    line-height: 1.65;
 }
 @media all and (max-width: 1023px) {
     .place__main-text{

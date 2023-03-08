@@ -1,12 +1,12 @@
 .footer__information {
     display: flex;
-    flex-direction: row;    
+    flex-direction: row;
     align-items: center;
     justify-content: space-between;
     padding: 0;
     margin: 0;
 }
-@media all and (max-width: 424px) {
+@media all and (max-width: 767px) {
     .footer__information{
         display: flex;
         flex-direction: column;

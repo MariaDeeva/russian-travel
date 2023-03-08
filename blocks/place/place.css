@@ -2,8 +2,8 @@
     display: grid;
   /*  grid-template-columns:repeat(2, minmax(min-content max-content));*/
    /* grid-template-columns:  1fr minmax(min-content, max-content);*/
-    grid-template-columns: 440px 1fr;
-    grid-gap: 48px 40px; 
+    grid-template-columns: 460px 1fr;
+    grid-gap: 48px 40px;
     margin-bottom: 80px;
     grid-template-areas: 
     "title website"
@@ -16,28 +16,25 @@
 }
 @media all and (max-width: 1279px) {
     .place{
-        display: grid;
-        gap: 48px 32px;
+         grid-template-columns: 440px 1fr;
+         gap: 48px 32px;
     }
 }
 @media all and (max-width: 1023px) {
     .place{
-        display: grid;
-        gap: 48px 30px;
+        column-gap: 30px;
         grid-template-columns: 340px 1fr;
     }
 }
 @media all and (max-width: 767px) {
     .place{
-        display: grid;
-        gap: 48px 28px;
+        column-gap: 28px;
         grid-template-columns: 40% 1fr;
         margin-bottom: 73px;
     }
 }
 @media all and (max-width: 424px) {
     .place{
-        display: grid;
         gap: 32px;
         grid-template-columns: 1fr;
         grid-template-areas: 

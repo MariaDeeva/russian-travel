@@ -2,13 +2,8 @@
     grid-area: title;
     margin: 0;
     font-weight: 900;
-    font-size: 76px;
+    font-size: 72px;
     line-height: 1.05;
-}
-@media all and (max-width: 1279px) {
-    .place__title{
-        font-size: 72px;
-    }
 }
 @media all and (max-width: 1023px) {
     .place__title{

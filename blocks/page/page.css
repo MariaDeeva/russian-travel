@@ -1,12 +1,11 @@
 .page {
-    font-family: 'Inter';
-    background: #2A2C2F;
+    font-family: 'Inter' Arial, sans-serif;
+    background-color: #2A2C2F;
     color: #FFFFFF;
     max-width:1280px;
-    margin: 0;
-
-  /* padding: 0 48px 0 48px;*/
-     overflow: hidden;
+    width: 100%;
+    margin: 0 auto;
+    /* padding: 0 48px 0 48px;*/
      width: 100%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
