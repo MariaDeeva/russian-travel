@@ -7,8 +7,7 @@
     margin-bottom: 80px;
     grid-template-areas: 
     "title website"
-    "image text";
-    box-sizing: border-box;
+    "image text";  
  }
 
 .place:last-child{

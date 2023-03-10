@@ -1,5 +1,4 @@
-.place__website_link{
-    grid-area: link;
+.place__link{
     margin: 0;
     font-weight: 400;
     font-size: 18px;

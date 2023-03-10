@@ -7,11 +7,14 @@
     text-transform: uppercase;
     display: flex;
     margin: 0;
+    width: calc(100% - 100px*2);   
+    box-sizing: border-box;
 }
 
 @media all and (max-width: 1279px) {
     .lead__caption {
         padding-left: 24px;
+        width: 100%;
     }
 }
 @media all and (max-width: 768px) {
