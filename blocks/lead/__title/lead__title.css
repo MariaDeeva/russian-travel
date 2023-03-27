@@ -7,11 +7,12 @@
     width: 100%;
     text-align: center;
     margin: 0;
+    /*box-sizing: border-box;*/
 }
 
-@media all  and (max-width: 767px) {
+@media all and (max-width: 699px) {
   .lead__title{
-    font-size: 68px;
+    font-size: 72px;
   } 
 }
 @media all and (max-width: 525px) {
